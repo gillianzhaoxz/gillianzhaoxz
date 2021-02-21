@@ -4,6 +4,8 @@ My name is Gillian and I am building on my coding skills to help make better pla
 
 🌱 My latest projects are focused on public policy analysis with advanced spatial analysis and data science/machine learning.
 
+📫 This is my personal github space. [gxzhao1](https://github.com/gxzhao1/gxzhao1) hosts my school account.
+
 😄 Pronouns: her/she
 
 <!--
